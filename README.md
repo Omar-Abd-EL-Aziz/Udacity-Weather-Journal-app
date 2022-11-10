@@ -1,6 +1,6 @@
 # Weather-Journal App Project
 
-## Overview
+# Overview
 Completed the Project!
 
 ##Completed Tasks
